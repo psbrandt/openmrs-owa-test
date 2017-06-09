@@ -146,7 +146,7 @@ var webpackConfig = {
 	  css: `${__dirname}/app/css/asd.css`,
 	  vendor : [
 
-	        	 'angular', 'openmrs-contrib-uicommons', 
+	        	 'angular', 'openmrs-contrib-uicommons', 'angular-animate'
 
 	            ]
   },
