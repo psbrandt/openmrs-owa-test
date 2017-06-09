@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0",
+  "name": "asd",
+  "description": "asd",
+  "launch_path": "index.html",
+  "icons": {
+    "48": "/img/omrs-button.png"
+  },
+  "developer": {
+    "name": "psbrandt",
+    "url": "https://github.com/psbrandt/openmrs-owa-asd"
+  },
+  "default_locale": "en",
+    "activities": {
+      "openmrs": {
+        "href": "*"
+      }
+    }
+}
